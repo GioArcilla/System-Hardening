@@ -1,4 +1,5 @@
 # Purpose:
+The purpose of this repository is to outline security principles and best practices for hardening systems when integrating systems, programs, software and overall technology into pre-existing infrastructure. Its purpose is to ensure data protection, maintain system integrity, and enforce isolation and least-privilege access while enabling safe and compliant automation.
 
 ## Core Methodology:
 1) Isolate the system
