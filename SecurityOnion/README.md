@@ -139,3 +139,5 @@ This lab was built to strengthen my skills in:
 
 and to prepare for real-world technical support and SOC responsibilities in MSP and enterprise environments.
 
+## Version History
+- 2026-03-23: Directory formatting, initial "SecurityOnion" path created, README relocated into "SecurityOnion" path
