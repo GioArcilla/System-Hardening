@@ -50,6 +50,14 @@ The purpose of this repository is to outline security principles and best practi
    - Define approval processes for system capabilities
    - Ensure compliance with regulations (GDPR, HIPAA, etc.)
 
+## Why is this important:
+System hardening is essential because a newly introduced system/service/program is:
+- A new entry point into your infrastructure
+- A potential bridge between trusted and untrusted components
+- A handler of sensitive operations and data
+
+Without deliberate safeguards, it can undermine the security of the entire environment.
+
 ## Summary:
 Isolate, limit, watch and control the system.
 
